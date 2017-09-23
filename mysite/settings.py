@@ -25,7 +25,7 @@ SECRET_KEY = 'u-$8zqgsb$q%_(a#t&evp137#uus)4v#(m_)$by2^b(=$(n99b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0','127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0','127.0.0.1','bot-json.herokuapp.com']
 
 
 # Application definition
